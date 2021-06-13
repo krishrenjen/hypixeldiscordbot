@@ -3,14 +3,14 @@ A discord bot for the Hypixel network. Will verify a user's Discord account and 
 
 Instructions:
 
-Get your Hypixel api key
-Log into Hypixel server
-Run /api new
-Insert key into the code
-Setup firebase realtime database
-Add the url to the firebase database
-Add the credentials file to the same folder as the code
-Create a Discord bot
-Invite to your server
-Get bot token
-Insert bot token into the code
+1. Get your Hypixel api key
+2. Log into Hypixel server
+3. Run /api new
+4. Insert key into the code
+5. Setup firebase realtime database
+6. Add the url to the firebase database
+7. Add the credentials file to the same folder as the code
+8. Create a Discord bot
+9. Invite to your server
+10. Get bot token
+11. Insert bot token into the code
